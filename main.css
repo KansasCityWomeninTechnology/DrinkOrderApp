@@ -7,7 +7,7 @@ body {
 }
 
 .queued {
-	color: yellow;
+	color: orange;
 }
 
 .ready {
