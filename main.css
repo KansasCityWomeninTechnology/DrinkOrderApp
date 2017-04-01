@@ -1,11 +1,11 @@
-.none { 
-	color: gray; 
+.none {
+	color: #000;
 }
 
-.queued { 
-	color: orange; 
+.queued {
+	color: pink;
 }
 
-.ready { 
-	color: green; 
+.ready {
+	color: #f00; 
 }
