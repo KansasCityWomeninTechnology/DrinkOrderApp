@@ -1,11 +1,15 @@
-.none { 
-	color: gray; 
+.none {
+	color: gray;
 }
 
-.queued { 
-	color: orange; 
+.queued {
+	color: orange;
 }
 
-.ready { 
-	color: green; 
+.ready {
+	color: green;
+}
+
+h1 {
+	text-align: center;
 }
